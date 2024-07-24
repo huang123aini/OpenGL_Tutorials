@@ -1,0 +1,2 @@
+
+set(ENGINE_BINARY_PATH ${PROJECT_BINARY_DIR}/engine)
